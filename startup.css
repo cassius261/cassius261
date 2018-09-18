@@ -1,0 +1,21 @@
+body{
+	background-image: url("https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2017/07/13182048/gettyimages-510363618-800x533.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100%;
+}
+.btn {
+font-weight: 1000;
+text-transform: uppercase;
+
+border-radius: 400px;
+cursor: pointer;
+position: absolute;
+top: 600px;
+left: 450px;
+}
+.btn-xl {
+	padding: 1rem 2rem;
+}
